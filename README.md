@@ -10,4 +10,14 @@ O que faltou?
 -sincronizar API de localização de CEP no cadastro dos alunos;
 -funcionalidade de adicionar/remover curso.
 
-Linguagens utilizadas: HTML, CSS (Bluma framework), JavaScript, SQL e nosso amado PHP. :)
+Obs: Para o CSS utilizei o Bluma Framework. :)
+
+  
+            ----------------                               ---------------
+           //            //    ||          ||            //            //
+          //            //     ||          ||           //            //
+         //            //      ||----------||          //            //
+        //------------//       ||----------||         //------------//
+       //                      ||          ||        //
+      //                       ||          ||       //
+     //                        ||          ||      //
