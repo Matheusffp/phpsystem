@@ -11,3 +11,6 @@ O que faltou?
 -funcionalidade de adicionar/remover curso.
 -Eu não utilizei migrations para versionar os bancos do mysql, por isso você
 encontrará os arquivos .sql com os scripts dos bancos. (utilizei o phpmyadmin para criar os bancos).
+
+
+OBS: Resposta do item número 6 se encontra na pasta desafio.
