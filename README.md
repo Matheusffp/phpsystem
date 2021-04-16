@@ -9,15 +9,5 @@ Aquivo XML com os cursos foi importado para o banco como arquivo .CSV e armazena
 O que faltou?
 -sincronizar API de localização de CEP no cadastro dos alunos;
 -funcionalidade de adicionar/remover curso.
-
-Obs: Para o CSS utilizei o Bluma Framework. :)
-
-  
-            ----------------                               ---------------
-           //            //    ||          ||            //            //
-          //            //     ||          ||           //            //
-         //            //      ||----------||          //            //
-        //------------//       ||----------||         //------------//
-       //                      ||          ||        //
-      //                       ||          ||       //
-     //                        ||          ||      //
+-Eu não utilizei migrations para versionar os bancos do mysql, por isso você
+encontrará os arquivos .sql com os scripts dos bancos. (utilizei o phpmyadmin para criar os bancos).
